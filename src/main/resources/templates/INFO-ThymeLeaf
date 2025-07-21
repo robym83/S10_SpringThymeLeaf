@@ -1,0 +1,9 @@
+Thymeleaf è un motore di modelli (Template Engine) lato server per Java, 
+progettato per creare pagine web dinamiche. 
+Funziona bene sia con applicazioni web che con applicazioni standalone. 
+Offre una sintassi intuitiva simile all'HTML, che facilita la creazione di modelli 
+e l'integrazione con i framework Java MVC come Spring.
+Thymeleaf elabora modelli HTML, XML, JavaScript, CSS e testo semplice per generare contenuti dinamici. 
+È progettato per integrarsi facilmente con le applicazioni Java, inclusi i framework MVC, 
+consentendo l'accesso ai dati del modello dalla vista.
+Modulo che prende un contenuto testuale, dei dati dinamici, li combina e restituisce il nuovo contenuto elaborato. 
